@@ -1,0 +1,1 @@
+{'the_score': 80, 'the_snake': [3, 4, 5, 6, 7, 8, 9, 10, 11], 'the_speed': 8.190000000000014, 'the_walls': False, 'the_positions': [[96.0, 96.0, 144.0, 144.0]]}
